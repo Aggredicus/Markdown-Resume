@@ -1,2 +1,2 @@
 # Markdown-Resume
-A beautiful resume generated from Markdown 
+My beautiful resume generated from Markdown 
